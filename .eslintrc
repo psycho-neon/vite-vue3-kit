@@ -14,7 +14,7 @@
     "import/resolver": {
       "alias": {
         "map": [["@", "./src"],["~", "./src"]],
-        "extensions": [".js", ".vue", ".json"]
+        "extensions": [".js", ".json"]
       }
     }
   },

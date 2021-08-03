@@ -1,11 +1,10 @@
 {
   "include": ["./src/**/*"],
-  "exclude": ["dist", "node_modules"],
+  "exclude": ["**/dist/", "**/node_modules/"],
   "compilerOptions": {
     "baseUrl": ".",
     "strict": true,
     "esModuleInterop": true,
-    "incremental": false,
     "skipLibCheck": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
@@ -13,7 +12,8 @@
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "~/*": ["src/*"]
     }
   }
 }
