@@ -1,13 +1,13 @@
 {
   "tabWidth": 2,
-  "semi": true,
+  "semi": false,
   "singleQuote": true,
   "quoteProps": "as-needed",
-  "trailingComma": "all",
+  "trailingComma": "none",
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
   "arrowParens": "always",
-  "printWidth": 120,
+  "printWidth": 80,
   "endOfLine": "auto",
   "vueIndentScriptAndStyle": false
 }
