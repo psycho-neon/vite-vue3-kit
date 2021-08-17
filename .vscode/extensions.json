@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "patbenatar.advanced-new-file",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.npm-intellisense",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "johnsoncodehk.volar"
+  ]
+}
